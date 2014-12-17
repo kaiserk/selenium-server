@@ -10,7 +10,7 @@
             "homepage": "http://seleniumhq.org/"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "2.44.0",
     "autoload": { },
     "target-dir": "",
     "bin": ["selenium-server-standalone-2.44.0.jar"]
