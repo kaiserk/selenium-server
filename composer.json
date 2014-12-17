@@ -1,5 +1,5 @@
 {
-    "name": "netwing/selenium-server-standalone",
+    "name": "kaiserk/selenium-server-standalone",
     "type": "library",
     "description": "Composer distribution of Selenium Server Standalone, the browser automation framework.",
     "license": "Apache-2.0",
@@ -13,5 +13,5 @@
     "minimum-stability": "dev",
     "autoload": { },
     "target-dir": "",
-    "bin": ["selenium-server-standalone-2.43.0.jar"]
+    "bin": ["selenium-server-standalone-2.44.0.jar"]
 }
